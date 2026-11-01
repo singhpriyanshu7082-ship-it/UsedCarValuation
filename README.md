@@ -1,4 +1,10 @@
-﻿# UsedCar AI - Smart Used Car Valuation System
+﻿# 🚗 UsedCar AI - Smart Used Car Valuation System
+
+🌐 **Live Demo:** https://usedcar-ai-valuation.streamlit.app/
+
+📂 **GitHub Repository:** https://github.com/singhpriyanshu7082-ship-it/UsedCarValuation
+
+---
 
 
 

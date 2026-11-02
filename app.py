@@ -1,6 +1,5 @@
 ﻿import streamlit as st
 import pandas as pd
-import joblib
 from pathlib import Path
 from catboost import CatBoostRegressor
 
@@ -556,7 +555,7 @@ elif page == "About Project":
             "Matplotlib",
             "Seaborn",
             "Scikit-learn",
-            "Joblib",
+            "CatBoost",
             "Streamlit"
         ],
         "Purpose": [
@@ -566,7 +565,7 @@ elif page == "About Project":
             "Data Visualization",
             "Statistical Visualization",
             "Machine Learning",
-            "Model Saving",
+            "Gradient Boosting Regressor",
             "Web Application"
         ]
     })
